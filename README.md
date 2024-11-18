@@ -2,7 +2,7 @@
 This is a web application for managing shelter animals.
 
 1. 請先從以下網站下載jar檔。<br>
-https://drive.google.com/file/d/1AFjgfu4IXerRzVxihoLg5idiL9ToDxfV/view?usp=drive_link
+https://drive.google.com/file/d/1khr8mIWzYIvaopZtOz763LcPjRFTTXXj/view?usp=drive_link
 
 2. 從專案內下載CreateDatabase.sql，透過SQL Server先執行創建資料庫，再執行創建資料表。
 
