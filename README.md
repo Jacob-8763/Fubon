@@ -4,11 +4,14 @@ This is a web application for managing shelter animals.
 1. 請先從以下網站下載jar檔。<br>
 https://drive.google.com/file/d/10XFKVjnI669u-uIUEuDOkCDJ_tn0FftV/view?usp=drive_link
 
-2. 從專案內下載CreateDatabase.sql，透過SQL Server先執行創建資料庫，再執行創建資料表。
+2. 將檔案放在C槽下資料夾內，並執行CMD，輸入
+<code>java -jar "檔名.jar"</code>
 
-3. 資料庫設定完成後，即可執行jar檔。
+4. 從專案內下載CreateDatabase.sql，透過SQL Server先執行創建資料庫，再執行創建資料表。
 
-4. 並可透過網頁操作。
+5. 資料庫設定完成後，即可執行jar檔。
+
+6. 並可透過網頁操作。
 
 
 # 網站操作說明
