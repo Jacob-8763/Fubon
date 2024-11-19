@@ -1,7 +1,7 @@
 # Shelter
 This is a web application for managing shelter animals.
 
-1. 請先從以下網站下載jar檔。<br>
+1. 請先下載jar檔。<br>
 https://drive.google.com/file/d/10XFKVjnI669u-uIUEuDOkCDJ_tn0FftV/view?usp=drive_link
 
 2. 將檔案放在C槽下資料夾內，並執行CMD，輸入
