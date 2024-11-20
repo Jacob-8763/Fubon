@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: Shelter
+  datasource:
+    username: sa
+    password: P@ssw0rd
+    url: jdbc:sqlserver://localhost:1433;database=Shelter;trustServerCertificate=true
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.SQLServerDialect
+  web:
+    resources:
+      add-mappings: true
+      static-locations: classpath:/static/
+  thymeleaf:
+    enabled: false
