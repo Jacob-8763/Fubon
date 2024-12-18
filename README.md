@@ -1,4 +1,4 @@
-# Shelter
+# Shelter安裝說明
 This is a web application for managing shelter animals.
 
 1. 請先下載jar檔。<br>
